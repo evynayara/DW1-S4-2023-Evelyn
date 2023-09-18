@@ -1,0 +1,69 @@
+#body1{
+    background-color: lightblue;
+    background-image: url(gatinho.png);
+    background-position: right bottom;
+    background-position: 100% 100%;
+    background-size: 200px;
+    background-repeat: no-repeat;
+    min-height: 90vh;
+}
+#div1{
+    background-color: lightcoral;
+}
+#div2{
+    color: blue;
+    background-color: rgb(110, 30, 30);
+}
+#div3{
+    background-color: aquamarine;
+}
+#img1{
+    background-image: url(gatinho.png);
+    background-size: 50px;
+}
+table, th, td{
+    border: 1px solid black;
+    text-align: center;
+    width: 450px;
+    height: 35px;
+}
+#red{
+    background-color: red;
+}
+#red2{
+    background-color: #b30000;
+}
+#red3{
+    background-color: #660000;
+}
+#green{
+    background-color: green;
+}
+#green2{
+    background-color: #99ff99;
+}
+#green3{
+    background-color: #004d00;
+}
+#blue{
+    background-color: blue;
+}
+#blue2{
+    background-color: #ccccff;
+}
+#blue3{
+    background-color: #000066;
+}
+#divtable{
+    background-image: url(ifsp.png);
+    background-position: right center;
+    background-repeat: no-repeat;
+}
+#body2{
+    background-image: url(cores.png);
+    background-position: right bottom;
+    background-position: 100% 100%;
+    background-size: 200px;
+    background-repeat: repeat-x;
+    min-height: 90vh;
+}

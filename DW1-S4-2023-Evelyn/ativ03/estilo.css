@@ -1,0 +1,74 @@
+table, td{
+    border: 1px solid black;
+}
+
+#l1{
+    background-color: green;
+    border: 1px solid black;
+
+}
+.l2{
+    background-color: lightgreen;
+}
+
+.estilo2 tr{
+    background-color: black;
+    color: white;
+}
+
+#l3{
+    background-color: grey;
+}
+
+#l4{
+    background-color: rgb(199, 199, 199);
+}
+
+#l5{
+    background-color: rgb(121, 115, 115);
+}
+
+#tabela1{
+    border: solid 1px red;
+    background: 70px;
+    width: 50%;
+    height: 400px;
+    text-align: center;
+}
+#tabela2{
+    border: solid 1px red;
+    background-color: aliceblue;
+    text-align: center;
+    width: 15%;
+    height: 100px;
+}
+.green{
+    background-color: green;
+}
+.red{
+    background-color: red;
+}
+.blue{
+    background-color: blue;
+}
+.yellow{
+    background-color: yellow;
+}
+.linha2{
+    border: solid 1px red;
+}
+#fundo{
+    background-color: #61daff;
+}
+#green{
+    background-color: green;
+}
+#red{
+    background-color: red;
+}
+#blue{
+    background-color: blue;
+}
+#yellow{
+    background-color: yellow;
+}
