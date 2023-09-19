@@ -1,0 +1,20 @@
+#body{
+    background-color: lightblue;
+}
+
+#div1{
+    background-color: aliceblue;
+    border: 1vw solid;
+    font-size: 2vw;
+    width: 65%;
+}
+#div2{
+    background-color: aliceblue;
+    border: 6px solid;
+    width: 620px;
+    font-size: 14px;
+
+}
+#h1{
+    
+}
